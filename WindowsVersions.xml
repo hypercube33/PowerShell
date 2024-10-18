@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OperatingSystems>
+    <OperatingSystem>
+        <Name>Windows XP</Name>
+        <ShortName>WinXP</ShortName>
+        <Version>5.1.2600</Version>
+        <ReleaseDate>0110</ReleaseDate>
+        <BuildNumber>2600</BuildNumber>
+        <ReleaseCodename>Whistler</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows XP</Name>
+        <ShortName>WinXP</ShortName>
+        <Version>5.1.2600</Version>
+        <ReleaseDate>0210</ReleaseDate>
+        <BuildNumber>2600</BuildNumber>
+        <ReleaseCodename>Freestyle</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows XP</Name>
+        <ShortName>WinXP</ShortName>
+        <Version>5.1.2700</Version>
+        <ReleaseDate>0410</ReleaseDate>
+        <BuildNumber>2700</BuildNumber>
+        <ReleaseCodename>Symphony</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows XP</Name>
+        <ShortName>WinXP</ShortName>
+        <Version>5.1.2710</Version>
+        <ReleaseDate>0510</ReleaseDate>
+        <BuildNumber>2710</BuildNumber>
+        <ReleaseCodename>Emerald</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows XP</Name>
+        <ShortName>WinXP</ShortName>
+        <Version>5.2.3790</Version>
+        <ReleaseDate>0504</ReleaseDate>
+        <BuildNumber>3790</BuildNumber>
+        <ReleaseCodename>Anvil</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows Vista</Name>
+        <ShortName>Vista</ShortName>
+        <Version>6.0.6002</Version>
+        <ReleaseDate>0704</ReleaseDate>
+        <BuildNumber>6002</BuildNumber>
+        <ReleaseCodename>Longhorn</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 7</Name>
+        <ShortName>Win7</ShortName>
+        <Version>6.1.7601</Version>
+        <ReleaseDate>0907</ReleaseDate>
+        <BuildNumber>7601</BuildNumber>
+        <ReleaseCodename>Windows 7</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 8</Name>
+        <ShortName>Win8</ShortName>
+        <Version>6.2.9200</Version>
+        <ReleaseDate>1212</ReleaseDate>
+        <BuildNumber>9200</BuildNumber>
+        <ReleaseCodename>RTM</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 8.1</Name>
+        <ShortName>Win81</ShortName>
+        <Version>6.3.9600</Version>
+        <ReleaseDate>1310</ReleaseDate>
+        <BuildNumber>8.1 Update 1</BuildNumber>
+        <ReleaseCodename>Update 1</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.10240</Version>
+        <ReleaseDate>1507</ReleaseDate>
+        <BuildNumber>1507</BuildNumber>
+        <ReleaseCodename>Threshold 1</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.10586</Version>
+        <ReleaseDate>1511</ReleaseDate>
+        <BuildNumber>1511</BuildNumber>
+        <ReleaseCodename>Threshold 2</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.14393</Version>
+        <ReleaseDate>1607</ReleaseDate>
+        <BuildNumber>1607</BuildNumber>
+        <ReleaseCodename>Anniversary Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.15063</Version>
+        <ReleaseDate>1703</ReleaseDate>
+        <BuildNumber>1703</BuildNumber>
+        <ReleaseCodename>Creators Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.16299</Version>
+        <ReleaseDate>1709</ReleaseDate>
+        <BuildNumber>1709</BuildNumber>
+        <ReleaseCodename>Fall Creators Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.17134</Version>
+        <ReleaseDate>1803</ReleaseDate>
+        <BuildNumber>1803</BuildNumber>
+        <ReleaseCodename>April 2018 Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.17763</Version>
+        <ReleaseDate>1809</ReleaseDate>
+        <BuildNumber>1809</BuildNumber>
+        <ReleaseCodename>October 2018 Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.18362</Version>
+        <ReleaseDate>1903</ReleaseDate>
+        <BuildNumber>1903</BuildNumber>
+        <ReleaseCodename>May 2019 Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.18363</Version>
+        <ReleaseDate>1909</ReleaseDate>
+        <BuildNumber>1909</BuildNumber>
+        <ReleaseCodename>November 2019 Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.19041</Version>
+        <ReleaseDate>2004</ReleaseDate>
+        <BuildNumber>2004</BuildNumber>
+        <ReleaseCodename>May 2020 Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.19042</Version>
+        <ReleaseDate>2010</ReleaseDate>
+        <BuildNumber>20H2</BuildNumber>
+        <ReleaseCodename>October 2020 Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.19043</Version>
+        <ReleaseDate>2105</ReleaseDate>
+        <BuildNumber>21H1</BuildNumber>
+        <ReleaseCodename>May 2021 Update</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.19044</Version>
+        <ReleaseDate>2111</ReleaseDate>
+        <BuildNumber>21H2</BuildNumber>
+        <ReleaseCodename>Vibranium</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 10</Name>
+        <ShortName>Win10</ShortName>
+        <Version>10.0.19045</Version>
+        <ReleaseDate>2210</ReleaseDate>
+        <BuildNumber>22H2</BuildNumber>
+        <ReleaseCodename>Vibranium</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 11</Name>
+        <ShortName>Win11</ShortName>
+        <Version>10.0.22000</Version>
+        <ReleaseDate>2110</ReleaseDate>
+        <BuildNumber>21H1</BuildNumber>
+        <ReleaseCodename>Sun Valley</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 11</Name>
+        <ShortName>Win11</ShortName>
+        <Version>10.0.22621</Version>
+        <ReleaseDate>2209</ReleaseDate>
+        <BuildNumber>22H2</BuildNumber>
+        <ReleaseCodename>Sun Valley 2</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 11</Name>
+        <ShortName>Win11</ShortName>
+        <Version>10.0.22621</Version>
+        <ReleaseDate>2209</ReleaseDate>
+        <BuildNumber>22H2</BuildNumber>
+        <ReleaseCodename>Moment 1</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 11</Name>
+        <ShortName>Win11</ShortName>
+        <Version>10.0.22621</Version>
+        <ReleaseDate>2209</ReleaseDate>
+        <BuildNumber>22H2</BuildNumber>
+        <ReleaseCodename>Moment 2</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 11</Name>
+        <ShortName>Win11</ShortName>
+        <Version>10.0.22631</Version>
+        <ReleaseDate>2310</ReleaseDate>
+        <BuildNumber>23H2</BuildNumber>
+        <ReleaseCodename>Moment 3</ReleaseCodename>
+    </OperatingSystem>
+    <OperatingSystem>
+        <Name>Windows 11</Name>
+        <ShortName>Win11</ShortName>
+        <Version>10.0.26100</Version>
+        <ReleaseDate>2406</ReleaseDate>
+        <BuildNumber>24H2</BuildNumber>
+        <ReleaseCodename>Moment 4</ReleaseCodename>
+    </OperatingSystem>
+</OperatingSystems>
